@@ -1,4 +1,4 @@
-# Atividade 01 - Simulador Investimentos
+# Atividade 02 - Simulador Investimentos
 
 ## Descrição do Projeto 
 O projeto consiste em um Simulador de Investimentos, desenvolvido com o objetivo de permitir ao usuário calcular o crescimento de um investimento ao longo do tempo.
